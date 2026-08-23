@@ -1,0 +1,8 @@
+ipykernel==6.29.5
+ipython==8.37.0
+matplotlib==3.10.3
+numpy==2.2.6
+pillow==11.3.0
+torch==2.10.0
+torchvision==0.25.0
+pandas==2.2.3

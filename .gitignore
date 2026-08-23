@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data and generated artifacts
+dataset/oxford-iiit-pet/images/
+dataset/oxford-iiit-pet/annotations/
+saved_models/**/*.pth
+submissions/*.csv
